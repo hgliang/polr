@@ -14,8 +14,8 @@ Polr is an intrepid, self-hostable open-source link shortening web application w
 
 ### 快速开始
 
-详细安装教程：https://lianghg.com/2019/08/10/polr/
-英文原版教程：[installation guide](http://docs.polrproject.org/en/latest/user-guide/installation/)
+- 详细安装教程：https://lianghg.com/2019/08/10/polr/
+- 英文原版教程：[installation guide](http://docs.polrproject.org/en/latest/user-guide/installation/)
 
 ### Demo
 
