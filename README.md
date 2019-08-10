@@ -1,12 +1,11 @@
 <img src="https://i.imgur.com/ckI6GTu.png" width="350px" alt="Polr Logo" />
 
 
-:aerial_tramway: A modern, minimalist, and lightweight URL shortener.
+简单便捷的短网址管理系统
 
 [![GitHub license](https://img.shields.io/badge/license-GPLv2%2B-blue.svg)]()
-[![GitHub release](https://img.shields.io/github/release/cydrobolt/polr.svg)](https://github.com/cydrobolt/polr/releases)
-[![Builds status](https://travis-ci.org/cydrobolt/polr.svg)](https://travis-ci.org/cydrobolt/polr)
-[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](http://polr.readthedocs.org/en/latest/)
+[![GitHub release](https://img.shields.io/github/release/cydrobolt/polr.svg)](https://github.com/hgliang/polr)
+[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://lianghg.com/2019/08/10/polr/)
 
 
 Polr is an intrepid, self-hostable open-source link shortening web application with a robust API. It allows you to host your own URL shortener, to brand your URLs, and to gain control over your data. Polr is especially easy to use, and provides a modern, themable feel.
