@@ -30,12 +30,12 @@ $(function() {
             } else if (msg == 'invalid') {
                 $('#link-availability-status').html('<span style="color:orange"><i class="fa fa-exclamation-triangle"></i> 无效的自定义字符</span>');
             } else {
-                $('#link-availability-status').html(' <span style="color:red"><i class="fa fa-exclamation-circle"></i> 发生了错误， 请重试</span>' + msg);
+                $('#link-availability-status').html(' <span style="color:red"><i class="fa fa-exclamation-circle"></i> 发生了一个错误， 请重试</span>' + msg);
             }
         });
 
         request.fail(function(jqXHR, textStatus) {
-            $('#link-availability-status').html(' <span style="color:red"><i class="fa fa-exclamation-circle"></i> 发生了错误，请重试</span>' + textstatus);
+            $('#link-availability-status').html(' <span style="color:red"><i class="fa fa-exclamation-circle"></i> 发生了一个错误，请重试</span>' + textstatus);
         });
     });
     min = 1;
