@@ -43,7 +43,7 @@
 </form>
 
 <div id='tips' class='text-muted tips'>
-    <i class='fa fa-spinner'></i> Loading Tips...
+    <i class='fa fa-spinner'></i> 正在加载...
 </div>
 @endsection
 
